@@ -33,7 +33,7 @@ Table will be updated as progress is made
 | Challenge | Language | Status |
 | ----- | ----- | ----- |
 | [1.](https://adventofcode.com/2017/day/1) | Assembly (ARM) | <ul><li>[X] </li></ul> |
-| [2.](https://adventofcode.com/2017/day/2) | | <ul><li>[ ] </li></ul> |
+| [2.](https://adventofcode.com/2017/day/2) | PHP | <ul><li>[ ] </li></ul> |
 | [3.](https://adventofcode.com/2017/day/3) | | <ul><li>[ ] </li></ul> |
 | [4.](https://adventofcode.com/2017/day/4) | | <ul><li>[ ] </li></ul> |
 | [5.](https://adventofcode.com/2017/day/5) | | <ul><li>[ ] </li></ul> |
