@@ -9,9 +9,9 @@ The language pool consists of (in alphabetical order):
 
 1. Ada
 2. Assembly (ARM)
-3. C
-4. C++
-5. C#
+3. **C**
+4. **C++**
+5. **C#**
 6. D
 7. Elixir
 8. F#
@@ -19,7 +19,7 @@ The language pool consists of (in alphabetical order):
 10. Javascript
 11. Lua
 12. PHP
-13. Python
+13. **Python**
 14. Rust
 15. Swift
 16. Typescript
