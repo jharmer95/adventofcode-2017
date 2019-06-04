@@ -55,7 +55,7 @@ endFound:
 digitLoop2:
     // Load next char of parameter1 to r22
     cmp x21, x24
-    b.gt done
+    b.gt fin
     ldr x22, [x1, 8]
     ldrb w22, [x22, x21]
     sub w22, w22, #48
@@ -63,7 +63,7 @@ digitLoop2:
     // If desired location is greater or equal to max index, wrap around
     cmp x25, x24
     b.lt compare
-    sub x25, x24, x25
+    sub x25, x25, x24
 
 compare:
     ldr x23, [x1, 8]
@@ -78,25 +78,8 @@ skipSum:
     add x21, x21, #1
     b digitLoop2
 
-done:
-    cmp x21, #1
-    b.eq fin
-    // Compare last digit to first to detect wrap-around
-    sub x21, x21, #1
-    ldr x22, [x1, 8]
-    ldrb w22, [x22, x21]
-    sub w22, w22, #48
-    add x25, x21, x19
-    sub x25, x24, x25
-    ldr x23, [x1, 8]
-    ldrb w23, [x23, x25]
-    sub w23, w23, #48
-    cmp w22, w23
-    b.ne fin
-    add w20, w20, w22
-
 fin:
-    mov w1, w20
+    mov x1, x20
     adrp x0, .LC0
     add x0, x0, :lo12:.LC0
     bl printf
@@ -109,4 +92,4 @@ fin:
     ret
 
 .LC0:
-    .string "%llu"
+    .string "%llu\n"

@@ -83,4 +83,4 @@ fin:
     ret
 
 .LC0:
-    .string "%llu"
+    .string "%llu\n"
