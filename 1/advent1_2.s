@@ -1,5 +1,5 @@
 // aarch64 ASM
-// advent 1 solution
+// advent 1 p2 solution
 
 // Registers used:
 // r0 - 0th parameter and return value
@@ -15,9 +15,13 @@
 
 main:
     // setup
-    stp x19, x20, [sp, -48]!
-    stp x21, x22, [sp, 16]
-    str x23, [sp, 32]
+    stp x29, x30, [sp, -80]!
+    mov x29, sp
+    stp x19, x20, [sp, 16]
+    stp x21, x22, [sp, 32]
+    str x23, [sp, 48]
+    str w0, [sp, 76]
+    str x1, [sp, 64]
 
     // Initialize sum to 0
     mov x20, #0
@@ -66,8 +70,17 @@ done:
     add w20, w20, w22
 
 fin:
-    mov x0, x20
-    ldp x21, x22, [sp, 16]
-    ldr x23, [sp, 32]
-    ldp x19, x20, [sp], 48
+    mov w1, w20
+    adrp x0, .LC0
+    add x0, x0, :lo12:.LC0
+    bl printf
+
+    mov w0, 0
+    ldp x19, x20, [sp, 16]
+    ldp x21, x22, [sp, 32]
+    ldr x23, [sp, 48]
+    ldp x29, x30, [sp], 80
     ret
+
+.LC0:
+    .string "%llu"
