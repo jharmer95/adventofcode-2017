@@ -30,30 +30,30 @@ While the languages _should_ be used at random, there may be some cases where it
 
 Table will be updated as progress is made
 
-| Challenge | Language | Status |
-| ----- | ----- | ----- |
-| [1.](https://adventofcode.com/2017/day/1) | Assembly (ARM) | <ul><li>[X] </li></ul> |
-| [2.](https://adventofcode.com/2017/day/2) | PHP | <ul><li>[ ] </li></ul> |
-| [3.](https://adventofcode.com/2017/day/3) | | <ul><li>[ ] </li></ul> |
-| [4.](https://adventofcode.com/2017/day/4) | | <ul><li>[ ] </li></ul> |
-| [5.](https://adventofcode.com/2017/day/5) | | <ul><li>[ ] </li></ul> |
-| [6.](https://adventofcode.com/2017/day/6) | | <ul><li>[ ] </li></ul> |
-| [7.](https://adventofcode.com/2017/day/7) | | <ul><li>[ ] </li></ul> |
-| [8.](https://adventofcode.com/2017/day/8) | | <ul><li>[ ] </li></ul> |
-| [9.](https://adventofcode.com/2017/day/9) | | <ul><li>[ ] </li></ul> |
-| [10.](https://adventofcode.com/2017/day/10) | | <ul><li>[ ] </li></ul> |
-| [11.](https://adventofcode.com/2017/day/11) | | <ul><li>[ ] </li></ul> |
-| [12.](https://adventofcode.com/2017/day/12) | | <ul><li>[ ] </li></ul> |
-| [13.](https://adventofcode.com/2017/day/13) | | <ul><li>[ ] </li></ul> |
-| [14.](https://adventofcode.com/2017/day/14) | | <ul><li>[ ] </li></ul> |
-| [15.](https://adventofcode.com/2017/day/15) | | <ul><li>[ ] </li></ul> |
-| [16.](https://adventofcode.com/2017/day/16) | | <ul><li>[ ] </li></ul> |
-| [17.](https://adventofcode.com/2017/day/17) | | <ul><li>[ ] </li></ul> |
-| [18.](https://adventofcode.com/2017/day/18) | | <ul><li>[ ] </li></ul> |
-| [19.](https://adventofcode.com/2017/day/19) | | <ul><li>[ ] </li></ul> |
-| [20.](https://adventofcode.com/2017/day/20) | | <ul><li>[ ] </li></ul> |
-| [21.](https://adventofcode.com/2017/day/21) | | <ul><li>[ ] </li></ul> |
-| [22.](https://adventofcode.com/2017/day/22) | | <ul><li>[ ] </li></ul> |
-| [23.](https://adventofcode.com/2017/day/23) | | <ul><li>[ ] </li></ul> |
-| [24.](https://adventofcode.com/2017/day/24) | | <ul><li>[ ] </li></ul> |
-| [25.](https://adventofcode.com/2017/day/25) | | <ul><li>[ ] </li></ul> |
+| Challenge | Language | Part 1 | Part 2 |
+| ----- | ----- | ----- | ----- |
+| [1.](https://adventofcode.com/2017/day/1) | Assembly (ARM) | <ul><li>[X] </li></ul> | <ul><li>[ ] </li></ul> |
+| [2.](https://adventofcode.com/2017/day/2) | PHP | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> |
+| [3.](https://adventofcode.com/2017/day/3) | | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> |
+| [4.](https://adventofcode.com/2017/day/4) | | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> |
+| [5.](https://adventofcode.com/2017/day/5) | | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> |
+| [6.](https://adventofcode.com/2017/day/6) | | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> |
+| [7.](https://adventofcode.com/2017/day/7) | | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> |
+| [8.](https://adventofcode.com/2017/day/8) | | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> |
+| [9.](https://adventofcode.com/2017/day/9) | | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> |
+| [10.](https://adventofcode.com/2017/day/10) | | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> |
+| [11.](https://adventofcode.com/2017/day/11) | | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> |
+| [12.](https://adventofcode.com/2017/day/12) | | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> |
+| [13.](https://adventofcode.com/2017/day/13) | | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> |
+| [14.](https://adventofcode.com/2017/day/14) | | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> |
+| [15.](https://adventofcode.com/2017/day/15) | | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> |
+| [16.](https://adventofcode.com/2017/day/16) | | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> |
+| [17.](https://adventofcode.com/2017/day/17) | | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> |
+| [18.](https://adventofcode.com/2017/day/18) | | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> |
+| [19.](https://adventofcode.com/2017/day/19) | | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> |
+| [20.](https://adventofcode.com/2017/day/20) | | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> |
+| [21.](https://adventofcode.com/2017/day/21) | | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> |
+| [22.](https://adventofcode.com/2017/day/22) | | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> |
+| [23.](https://adventofcode.com/2017/day/23) | | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> |
+| [24.](https://adventofcode.com/2017/day/24) | | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> |
+| [25.](https://adventofcode.com/2017/day/25) | | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> |
