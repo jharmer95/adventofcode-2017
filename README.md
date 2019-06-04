@@ -33,7 +33,7 @@ While the languages _should_ be used at random, there may be some cases where it
 Table will be updated as progress is made
 
 | Challenge | Language | Part 1 | Part 2 |
-| ----- | ----- | ----- | ----- |
+| ----- | ----- | :-----: | :-----: |
 | [1.](https://adventofcode.com/2017/day/1) | Assembly (ARM) | <ul><li>[X] </li></ul> | <ul><li>[ ] </li></ul> |
 | [2.](https://adventofcode.com/2017/day/2) | PHP | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> |
 | [3.](https://adventofcode.com/2017/day/3) | | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> |
