@@ -1,7 +1,7 @@
 # adventofcode-2017
 Implementing the challenges from the [Advent of Code 2017](https://adventofcode.com/2017) website in different languages
 
-Programming languages are chosen at random using [Wheel Decide](https://wheeldecide.com/index.php?c1=C&c2=C%2B%2B&c3=D&c4=F%23&c5=Elixir&c6=Rust&c7=Go&c8=Python&c9=PHP&c10=Javascript&c11=Typescript&c12=Assembly+%28ARM%29&c13=C%23&c14=Swift&c15=Ada&c16=Lua&col=pastel&t=Programming+Languages&time=5&width=500)
+Programming languages are chosen at random using [Wheel Decide](https://wheeldecide.com/index.php?c1=C&c2=C%2B%2B&c3=D&c4=F%23&c5=Elixir&c6=Rust&c7=Go&c8=Python&c9=PHP&c10=Javascript&c11=Typescript&c12=Assembly+%28ARM%29&c13=C%23&c14=Swift&c15=Ada&c16=Lua&c17=Kotlin&c18=Scala&col=pastel&t=Programming+Languages&time=5&width=500)
 
 ## Languages
 
@@ -17,12 +17,14 @@ The language pool consists of (in alphabetical order):
 8. F#
 9. Go
 10. Javascript
-11. Lua
-12. PHP
-13. **Python**
-14. Rust
-15. Swift
-16. Typescript
+11. Kotlin
+12. Lua
+13. PHP
+14. **Python**
+15. Rust
+16. Scala
+17. Swift
+18. Typescript
 
 While the languages _should_ be used at random, there may be some cases where it is not feasible (i.e. Assembly for something involving data structures, etc.) and a re-spin is done. There can be cases where a language is used more than once, but this should be limited to about 2 times (preference will be given to new languages to me. So I would rather only use C++ once and Go three times, for example)
 
