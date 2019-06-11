@@ -28,7 +28,7 @@ The language pool consists of (in alphabetical order):
 | Swift | ( :star: :small_orange_diamond: :small_orange_diamond: :small_orange_diamond: :small_orange_diamond: ) |
 | Typescript | ( :star: :small_orange_diamond: :small_orange_diamond: :small_orange_diamond: :small_orange_diamond: ) |
 
-While the languages _should_ be used at random, there may be some cases where it is not feasible (i.e. Assembly for something involving data structures, etc.) and a re-spin is done. There can be cases where a language is used more than once, but this should be limited to about 2 times (preference will be given to new languages to me. So I would rather only use C++ once and Go three times, for example)
+While the languages _should_ be used at random, there may be some cases where it is not feasible (i.e. Assembly for something involving graphics, etc.) and a re-spin is done. There can be cases where a language is used more than once, but this should be limited to about 2 times (preference will be given to languages I am less proficient at)
 
 ## Challenges
 
