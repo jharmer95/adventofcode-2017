@@ -7,24 +7,26 @@ Programming languages are chosen at random using [Wheel Decide](https://wheeldec
 
 The language pool consists of (in alphabetical order):
 
-1. Ada
-2. Assembly (ARM)
-3. **C**
-4. **C++**
-5. **C#**
-6. D
-7. Elixir
-8. F#
-9. Go
-10. Javascript
-11. Kotlin
-12. Lua
-13. PHP
-14. **Python**
-15. Rust
-16. Scala
-17. Swift
-18. Typescript
+| Language | Proficiency |
+| ----- | ----- |
+| Ada | ( :star: :small_orange_diamond: :small_orange_diamond: :small_orange_diamond: :small_orange_diamond: ) |
+| Assembly (ARM) | ( :star: :small_orange_diamond: :small_orange_diamond: :small_orange_diamond: :small_orange_diamond: ) |
+| C | ( :star: :star: :star: :small_orange_diamond: :small_orange_diamond: ) |
+| C++ | ( :star: :star: :star: :star: :star: ) |
+| C# | ( :star: :star: :star: :star: :small_orange_diamond: ) |
+| D | ( :star: :small_orange_diamond: :small_orange_diamond: :small_orange_diamond: :small_orange_diamond: ) |
+| Elixir | ( :star: :small_orange_diamond: :small_orange_diamond: :small_orange_diamond: :small_orange_diamond: ) |
+| F# | ( :star: :small_orange_diamond: :small_orange_diamond: :small_orange_diamond: :small_orange_diamond: ) |
+| Go | ( :star: :small_orange_diamond: :small_orange_diamond: :small_orange_diamond: :small_orange_diamond: ) |
+| Javascript | ( :star: :star: :small_orange_diamond: :small_orange_diamond: :small_orange_diamond: ) |
+| Kotlin | ( :star: :small_orange_diamond: :small_orange_diamond: :small_orange_diamond: :small_orange_diamond: ) |
+| Lua | ( :star: :small_orange_diamond: :small_orange_diamond: :small_orange_diamond: :small_orange_diamond: ) |
+| PHP | ( :star: :star: :small_orange_diamond: :small_orange_diamond: :small_orange_diamond: ) |
+| Python | ( :star: :star: :star: :small_orange_diamond: :small_orange_diamond: ) |
+| Rust | ( :star: :star: :small_orange_diamond: :small_orange_diamond: :small_orange_diamond: ) |
+| Scala | ( :star: :small_orange_diamond: :small_orange_diamond: :small_orange_diamond: :small_orange_diamond: ) |
+| Swift | ( :star: :small_orange_diamond: :small_orange_diamond: :small_orange_diamond: :small_orange_diamond: ) |
+| Typescript | ( :star: :small_orange_diamond: :small_orange_diamond: :small_orange_diamond: :small_orange_diamond: ) |
 
 While the languages _should_ be used at random, there may be some cases where it is not feasible (i.e. Assembly for something involving data structures, etc.) and a re-spin is done. There can be cases where a language is used more than once, but this should be limited to about 2 times (preference will be given to new languages to me. So I would rather only use C++ once and Go three times, for example)
 
