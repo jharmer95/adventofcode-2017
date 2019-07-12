@@ -1,5 +1,6 @@
 import sys
 
+
 def main(inputFile):
     with open(inputFile) as f:
         s = f.read()
