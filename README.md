@@ -9,24 +9,24 @@ The language pool consists of (in alphabetical order):
 
 | Language | Proficiency |
 | ----- | ----- |
-| Ada | ( :star: :small_orange_diamond: :small_orange_diamond: :small_orange_diamond: :small_orange_diamond: ) |
-| Assembly (ARM) | ( :star: :small_orange_diamond: :small_orange_diamond: :small_orange_diamond: :small_orange_diamond: ) |
-| C | ( :star: :star: :star: :small_orange_diamond: :small_orange_diamond: ) |
-| C++ | ( :star: :star: :star: :star: :star: ) |
-| C# | ( :star: :star: :star: :star: :small_orange_diamond: ) |
-| D | ( :star: :small_orange_diamond: :small_orange_diamond: :small_orange_diamond: :small_orange_diamond: ) |
-| Elixir | ( :star: :small_orange_diamond: :small_orange_diamond: :small_orange_diamond: :small_orange_diamond: ) |
-| F# | ( :star: :small_orange_diamond: :small_orange_diamond: :small_orange_diamond: :small_orange_diamond: ) |
-| Go | ( :star: :small_orange_diamond: :small_orange_diamond: :small_orange_diamond: :small_orange_diamond: ) |
-| Javascript | ( :star: :star: :small_orange_diamond: :small_orange_diamond: :small_orange_diamond: ) |
-| Kotlin | ( :star: :small_orange_diamond: :small_orange_diamond: :small_orange_diamond: :small_orange_diamond: ) |
-| Lua | ( :star: :small_orange_diamond: :small_orange_diamond: :small_orange_diamond: :small_orange_diamond: ) |
-| PHP | ( :star: :star: :small_orange_diamond: :small_orange_diamond: :small_orange_diamond: ) |
-| Python | ( :star: :star: :star: :small_orange_diamond: :small_orange_diamond: ) |
-| Rust | ( :star: :star: :small_orange_diamond: :small_orange_diamond: :small_orange_diamond: ) |
-| Scala | ( :star: :small_orange_diamond: :small_orange_diamond: :small_orange_diamond: :small_orange_diamond: ) |
-| Swift | ( :star: :small_orange_diamond: :small_orange_diamond: :small_orange_diamond: :small_orange_diamond: ) |
-| Typescript | ( :star: :small_orange_diamond: :small_orange_diamond: :small_orange_diamond: :small_orange_diamond: ) |
+| Ada | ( &#9733; &#9734; &#9734; &#9734; &#9734; ) |
+| Assembly (ARM) | ( &#9733; &#9734; &#9734; &#9734; &#9734; ) |
+| C | ( &#9733; &#9733; &#9733; &#9734; &#9734; ) |
+| C++ | ( &#9733; &#9733; &#9733; &#9733; &#9733; ) |
+| C# | ( &#9733; &#9733; &#9733; &#9733; &#9734; ) |
+| D | ( &#9733; &#9734; &#9734; &#9734; &#9734; ) |
+| Elixir | ( &#9733; &#9734; &#9734; &#9734; &#9734; ) |
+| F# | ( &#9733; &#9734; &#9734; &#9734; &#9734; ) |
+| Go | ( &#9733; &#9734; &#9734; &#9734; &#9734; ) |
+| Javascript | ( &#9733; &#9733; &#9734; &#9734; &#9734; ) |
+| Kotlin | ( &#9733; &#9734; &#9734; &#9734; &#9734; ) |
+| Lua | ( &#9733; &#9734; &#9734; &#9734; &#9734; ) |
+| PHP | ( &#9733; &#9733; &#9734; &#9734; &#9734; ) |
+| Python | ( &#9733; &#9733; &#9733; &#9734; &#9734; ) |
+| Rust | ( &#9733; &#9733; &#9734; &#9734; &#9734; ) |
+| Scala | ( &#9733; &#9734; &#9734; &#9734; &#9734; ) |
+| Swift | ( &#9733; &#9734; &#9734; &#9734; &#9734; ) |
+| Typescript | ( &#9733; &#9734; &#9734; &#9734; &#9734; ) |
 
 While the languages _should_ be used at random, there may be some cases where it is not feasible (i.e. Assembly for something involving graphics, etc.) and a re-spin is done. There can be cases where a language is used more than once, but this should be limited to about 2 times (preference will be given to languages I am less proficient at)
 
