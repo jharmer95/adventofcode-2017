@@ -3,4 +3,5 @@
 *.obj
 *.run
 *.vscode/ipch
+*.vscode/.ropeproject
 !.gitkeep
