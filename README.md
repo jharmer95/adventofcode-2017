@@ -41,7 +41,7 @@ Table will be updated as progress is made
 | [4.](https://adventofcode.com/2017/day/4) | Lua | <ul><li>[X] </li></ul> | <ul><li>[X] </li></ul> |
 | [5.](https://adventofcode.com/2017/day/5) | Rust | <ul><li>[X] </li></ul> | <ul><li>[X] </li></ul> |
 | [6.](https://adventofcode.com/2017/day/6) | Python | <ul><li>[X] </li></ul> | <ul><li>[X] </li></ul> |
-| [7.](https://adventofcode.com/2017/day/7) | Scala | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> |
+| [7.](https://adventofcode.com/2017/day/7) | Scala | <ul><li>[X] </li></ul> | <ul><li>[ ] </li></ul> |
 | [8.](https://adventofcode.com/2017/day/8) | | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> |
 | [9.](https://adventofcode.com/2017/day/9) | | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> |
 | [10.](https://adventofcode.com/2017/day/10) | | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> |
